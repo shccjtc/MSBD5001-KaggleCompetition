@@ -1,2 +1,2 @@
 # MSBD5001-KaggleCompetition
-Shool work
+This is the kaggle competition school work
